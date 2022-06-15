@@ -1,5 +1,5 @@
 # Space Mafia
-This is the first video game I tried to develop using Unity game engine for my final Android Mobile Development class project. I had a little under 2 weeks to develop it and I am posting it because it is an example of me getting ahead of myself. I was highly ambitious in the team's capability and it lead to this humorous incomplete game. One of the member's was sick the whole project timeline and the other had no experience in C# so I had to code the gameplay and figure out how to make multiplayer work in a short period of time. The game works, but the gameplay is "push these boxes around with your friends." 
+This is the first video game I tried to develop using Unity game engine for my final Android Mobile Development class project. I had a little under 2 weeks to develop it and I am posting it because it is an example of me getting ahead of myself. I was highly ambitious and it lead to this humorous, incomplete game. One of the member's was unfortunately sick and could not contribute. So it left Daniel to make assets and me figuring out how to make multiplayer work in a short period of time. The game works, but the gameplay is "push these boxes around with your friends." 
 
 Is it ready for Early Access on Steam?
 
